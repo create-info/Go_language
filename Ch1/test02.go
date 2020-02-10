@@ -10,6 +10,6 @@ func main1(){
 
 
 //运行结果如下：
-//λ go run 1.go
+//λ go run test02.go
 //# command-line-arguments
 //runtime.main_main·f: function main is undeclared in the main package
