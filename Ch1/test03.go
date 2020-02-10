@@ -8,5 +8,5 @@ func main(){
 }
 
 //运行结果如下：
-//λ go run 1.go
+//λ go run test03.go
 //Hello Word!
