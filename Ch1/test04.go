@@ -10,7 +10,8 @@ import "os"
 func main(){
   fmt.Println("你好！")
   //return 1
-  os.Exit(0)
+  //os.Exit(0)
+  os.Exit(5)
 }
 
 
@@ -27,4 +28,11 @@ func main(){
 /*
 λ go run test04.go
 你好！
+*/
+
+
+/*
+λ go run test04.go
+你好！
+exit status 5
 */
