@@ -1,6 +1,5 @@
-//应用程序的入口
+package main
 //1.必须是main包：package main
-package test
 
 import "fmt"
 

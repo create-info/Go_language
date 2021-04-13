@@ -1,4 +1,4 @@
-package first_test
+package ch2
 
 import(
 	"fmt"
