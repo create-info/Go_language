@@ -1,3 +1,3 @@
 module Go_language
 
-go 1.14
+go 1.18
