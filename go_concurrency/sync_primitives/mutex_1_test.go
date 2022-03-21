@@ -7,4 +7,5 @@ import (
 
 func TestSumWithOutMutex(t *testing.T) {
 	sync_primitives.SumWithOutMutex()
+	sync_primitives.SumWithMutes()
 }
